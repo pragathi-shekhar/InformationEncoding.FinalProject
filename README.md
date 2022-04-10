@@ -6,4 +6,5 @@ Steps to execute:
 3. Set a secret by executing following commands.  
    `dotnet user-secrets init`  
    `dotnet user-secrets set SeedUserPW <PW>`
-5. Run the application by clicking on the run button or `Ctrl+F5`
+5. Run the application by clicking on the run button or `Ctrl+F5`  
+6. To login as Admin or Manager, use the password `<PW>` set in Step 3.

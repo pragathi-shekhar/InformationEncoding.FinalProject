@@ -1,4 +1,4 @@
-# InformationEncoding.FinalProject
+# Contact manager web application
 Web app to display contact data and access to modify and approve data based on the three user's role i.e Registered user, Manager and Administrator.  
 Steps to execute:  
 1. Clone repository  
